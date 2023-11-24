@@ -1,0 +1,4 @@
+id,x_coord,y_coord,start_time,end_time,service_time
+s0,6216,5358,80,95,3,
+s1,6171,8668,88,105,3,
+s2,6526,5822,102,120,3,
