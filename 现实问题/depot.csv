@@ -1,0 +1,4 @@
+id,x_coord,y_coord,capacity,start_time,end_time
+d0,4800,5800,50,0,170,
+d1,5200,3800,50,0,170,
+d2,4100,3200,50,0,170,
